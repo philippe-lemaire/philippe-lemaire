@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @philippe-lemaire
-- 👀 I’m interested in data science, python, web dev, maths, and games.
+- 👀 I’m interested in python, web dev, maths, and role playing games.
 - 🌱 I’m a big Python fan, I use it for everything, thanks to django, flask, scikit-learn and tensorflow.
-- 💞️ I’m looking to collaborate on building models capable of cracking jokes, my humor tends to be dry
 - 📫 How to reach me: philippe.lemaire@protonmail.com or @plemaire on telegram
